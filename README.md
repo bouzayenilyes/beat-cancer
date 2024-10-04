@@ -127,6 +127,3 @@ const handleFileUpload = async (file, filetype) => {
 
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
