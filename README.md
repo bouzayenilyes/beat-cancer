@@ -49,7 +49,7 @@ This project is deeply personal to me. My grandmother recently passed away from 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/mendsalbert/beat-cancer.git
+   git clone https://github.com/bouzayenilyes/beat-cancer.git
    cd beat-cancer
    ```
 
